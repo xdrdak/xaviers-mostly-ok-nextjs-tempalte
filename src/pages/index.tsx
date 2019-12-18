@@ -5,7 +5,7 @@ const testObject = {
   sample: undefined,
 };
 const IndexPage: NextPage = () => {
-  return <div>Allo allo {testObject?.sample}</div>;
+  return <div css={{ color: 'red' }}>Allo allo {testObject?.sample}</div>;
 };
 
 export default IndexPage;
