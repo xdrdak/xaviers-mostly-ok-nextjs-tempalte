@@ -17,7 +17,7 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "esnext",
-    "types": ["@emotion/core"]
+    "types": ["@emotion/core", "@types/jest"]
   },
   "exclude": ["node_modules"],
   "include": ["**/*.ts", "**/*.tsx"]
