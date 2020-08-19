@@ -12,7 +12,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.22",
+    "@emotion/core": "^10.0.35",
     "next": "^9.1.6",
     "prettier": "^1.19.1",
     "react": "^16.12.0",
